@@ -28,7 +28,7 @@ Este codigo tiene un funcionamiento en:
 Para instalar las librerías necesarias, puedes usar el siguiente comando de pip:
 
 sh
-pip install opencv-python-headless==4.10.0 numpy==1.26.4 pytesseract==0.3.13 pandas==2.2.3
+pip install opencv-python-headless==4.10.0 numpy==1.26.4 pytesseract==0.3.13 pandas==2.2.3 pdf2image==1.17.0
 Nota: re es un módulo incorporado en Python y no necesita instalación adicional.
 
   # Uso
