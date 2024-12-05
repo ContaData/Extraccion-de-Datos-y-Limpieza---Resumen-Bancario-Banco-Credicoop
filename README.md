@@ -48,10 +48,22 @@ Guardar en Excel: Los datos limpios se guardan en un archivo Excel para su anál
 Las contribuciones al proyecto son bienvenidas. Puedes enviar un pull request con una descripción detallada de los cambios propuestos.
 
   # Licencia
-Este proyecto está licenciado bajo los términos de la licencia MIT.
+
+Este trabajo está licenciado bajo la licencia [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+Usted es libre de:
+- Compartir: copiar y redistribuir el material en cualquier medio o formato
+- Adaptar: remezclar, transformar y construir a partir del material
+
+Bajo las siguientes condiciones:
+- Atribución: Debe otorgar el crédito correspondiente, proporcionar un enlace a la licencia e indicar si se han realizado cambios. Puede hacerlo de cualquier manera razonable, pero no de una manera que sugiera que usted o su uso tienen el apoyo de la licenciante.
+- NoComercial: No puede utilizar el material para fines comerciales.
+
+Para obtener permisos adicionales, póngase en contacto con [tu email].
+.
 
   # Contacto
-Para cualquier consulta, por favor contacta a [condadata.info@gmail.com].
+Para cualquier consulta, por favor contacta a [contadata.info@gmail.com].
 
 Esta estructura del README proporciona una guía clara y completa sobre el propósito y uso del proyecto, incluyendo las dependencias, la instalación y el flujo de trabajo. 
 Puedes personalizarlo según tus necesidades específicas. Si tienes más preguntas o necesitas ayuda adicional, ¡estoy aquí para ayudarte! 😊
